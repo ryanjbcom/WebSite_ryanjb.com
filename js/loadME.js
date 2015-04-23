@@ -28,33 +28,33 @@ Image9 = new Image(240,240)
 Image9.src = "http://www.itdevz.com/clients/ryanjb/images/img_wel.jpg"
 
 Image10 = new Image(240,240)
-Image10.src = "http://www.ryanjb.com/html5/images/img_work01.jpg"
+Image10.src = "http://www.itdevz.com/clients/ryanjb/images/img_work01.jpg"
 
 Image11 = new Image(240,240)
-Image11.src = "http://www.ryanjb.com/html5/images/img_work.jpg"
+Image11.src = "http://www.itdevz.com/clients/ryanjb/images/img_work.jpg"
 
 Image12 = new Image(240,240)
-Image12.src = "http://www.ryanjb.com/html5/images/img_play02.jpg"
+Image12.src = "http://www.itdevz.com/clients/ryanjb/images/img_play02.jpg"
 
 Image13 = new Image(240,240)
-Image13.src = "http://www.ryanjb.com/html5/images/img_play.jpg"
+Image13.src = "http://www.itdevz.com/clients/ryanjb/images/img_play.jpg"
 
 Image14 = new Image(240,240)
-Image14.src = "http://www.ryanjb.com/html5/images/img_news03.jpg"
+Image14.src = "http://www.itdevz.com/clients/ryanjb/images/img_news03.jpg"
 
 Image15 = new Image(240,240)
-Image15.src = "http://www.ryanjb.com/html5/images/img_news.jpg"
+Image15.src = "http://www.itdevz.com/clients/ryanjb/images/img_news.jpg"
 
 Image16 = new Image(240,240)
-Image16.src = "http://www.ryanjb.com/html5/images/img_blog04.jpg"
+Image16.src = "http://www.itdevz.com/clients/ryanjb/images/img_blog04.jpg"
 
 Image17 = new Image(240,240)
-Image17.src = "http://www.ryanjb.com/html5/images/img_blog.jpg"
+Image17.src = "http://www.itdevz.com/clients/ryanjb/images/img_blog.jpg"
 
 Image18 = new Image(240,240)
-Image18.src = "http://www.ryanjb.com/html5/images/img_shop05.jpg"
+Image18.src = "http://www.itdevz.com/clients/ryanjb/images/img_shop05.jpg"
 
 Image19 = new Image(240,240)
-Image19.src = "http://www.ryanjb.com/html5/images/img_shop.jpg"
+Image19.src = "http://www.itdevz.com/clients/ryanjb/images/img_shop.jpg"
 
 // End Hiding -->
