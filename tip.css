@@ -1,0 +1,32 @@
+#unitip {
+position: absolute;
+font: normal 18px Raleway, Arial, Helvetica, sans-serif;
+color: #fff;
+top: -1000px;
+display: none;
+z-index: 1000;
+}
+
+#unitippoint, #unitipmid, #unitipcap {
+position: relative;
+width: 145px;
+top: 0px; 
+left: 0px;
+display: block;
+}
+	
+#unitippoint { 
+height: 19px; 
+overflow: hidden; 
+}
+
+#unitipmid { 
+width: 115px;
+height: auto; 
+padding: 5px 15px;
+}
+	
+#unitipcap { 
+height: 7px; 
+overflow: hidden; 
+}
