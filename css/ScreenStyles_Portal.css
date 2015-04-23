@@ -1,0 +1,269 @@
+body {
+font-family: Verdana;
+background: #000 url(http://www.itdevz.com/clients/ryanjb/images/bgPortal.jpg) repeat-x top left;
+}
+
+img {
+border: 0;
+}
+
+a.hello {
+color: #fff; 
+font: normal 13px 'Raleway', Arial, Helvetica, sans-serif;
+text-decoration: none;
+outline: none;
+}
+
+a.hello:hover {
+color: #fff; 
+font: normal 13px 'Raleway', Arial, Helvetica, sans-serif;
+text-decoration: underline;
+outline: none;
+}
+
+#blockFrame {
+position: relative;
+width: 960px;
+height: 820px;
+margin: 0 auto;
+text-align: left;
+float: left;
+}
+
+.blockScreen {
+position: absolute;
+width: 736px;
+height: 489px;
+left: 0px;
+top: 251px;
+display: none;
+}
+
+a.Myself {
+position: absolute;
+top: 2px;
+left: 0px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+cursor: default;
+}
+
+a.Portfolio {
+position: absolute;
+top: 2px;
+left: 0px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+}
+
+a.Ultimate {
+position: absolute;
+top: 2px;
+left: 496px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+}
+
+a.News {
+position: absolute;
+top: 2px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+}
+
+a.Blog {
+position: absolute;
+top: 251px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+}
+
+a.Store {
+position: absolute;
+top: 500px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+}
+
+#ScreenMyself {
+background: url(http://www.itdevz.com/clients/ryanjb/images/Myself.jpg);
+}
+
+#ScreenPortfolio {
+background: url(http://www.itdevz.com/clients/ryanjb/images/Definitions_Portfolio.jpg);
+}
+
+#ScreenUltimate {
+background: url(http://www.itdevz.com/clients/ryanjb/images/Portfolio.jpg);
+}
+
+#ScreenNews {
+background: url(http://www.itdevz.com/clients/ryanjb/images/News.jpg);
+}
+
+#ScreenBlog {
+background: url(http://www.itdevz.com/clients/ryanjb/images/Blog.jpg);
+}
+
+#ScreenStore {
+background: url(http://www.itdevz.com/clients/ryanjb/images/Shop.jpg);
+}
+
+#helloCube {
+position: absolute;
+top: 2px;
+left: 0px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#helloCube a {
+color: #fff;
+text-decoration: none;
+}
+
+#helloCube a img {
+border: none;
+}
+
+#workCube {
+position: absolute;
+top: 2px;
+left: 248px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#workCube a {
+color: #fff;
+text-decoration: none;
+}
+
+#workCube a img {
+border: none;
+}
+
+#playCube {
+position: absolute;
+top: 2px;
+left: 496px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#playCube a {
+color: #fff;
+text-decoration: none;
+}
+
+#playCube a img {
+border: none;
+}
+
+#newsCube {
+position: absolute;
+top: 2px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#newsCube a {
+color: #fff;
+text-decoration: none;
+}
+
+#newsCube a img {
+border: none;
+}
+
+#blogCube {
+position: absolute;
+top: 251px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#blogCube a {
+color: #fff;
+text-decoration: none;
+}
+
+#blogCube a img {
+border: none;
+}
+
+#facebookCube {
+position: absolute;
+top: 500px;
+left: 744px;
+width: 240px;
+height: 240px;
+font-size: 10px;
+text-align: left;
+float: left;
+overflow:hidden;
+}
+
+#facebookCube iframe {
+margin-top: -5px;
+margin-left: -5px;
+}
+
+#Copyright {
+float: left;
+position: absolute;
+width: 240px;
+height: 150px;
+top: 750px;
+left: 744px;
+}
+
+p {
+color: #999;
+font: normal 13px 'Raleway', Arial, Helvetica, sans-serif;
+text-align: right;
+padding-right: 10px;
+}
